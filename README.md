@@ -1,5 +1,7 @@
-
-# Hiii folks, Welcome to my github!👋 I'm Javi Pena
+<h3 align="center">
+  Hiii folks, Welcome to my github!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <a href="[https://myoctocat.dev/@sw-yx/octocat](https://user-images.githubusercontent.com/52084984/200451932-62876bf0-1b83-4730-8516-a2fc84efb3cd.gif)">
   <img align="right" src="https://user-images.githubusercontent.com/52084984/200451932-62876bf0-1b83-4730-8516-a2fc84efb3cd.gif" width="200px" />
