@@ -31,7 +31,8 @@ const Javi = {
     icouldTalkForHoursAbout : ["technology", "formula1", "music", "movies", "games", "food"],
     technologies: {
         frontEnd: {
-            js: ["React Native", "Expo"],
+            js: ["React Native", "Expo", "Jquery"],
+            css: ["Bootstrap", "Fontawesome"]
         },
         backEnd: {
             sql: ["MySQL", "Oracle"],
