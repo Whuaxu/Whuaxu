@@ -57,6 +57,8 @@ const Javi = {
 <br>
 <br>
 
+
+---
 ###🔗 Contact 
 
 <a href="www.linkedin.com/in/javier-pena-bello-1a437527a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BKgJb8gy4RIqdgV%2FglCcfMg%3D%3D" target="_blank">
@@ -66,6 +68,8 @@ const Javi = {
 <a href="mailto:javierpb6@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
+
+---
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
