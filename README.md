@@ -42,7 +42,10 @@ const Javi = {
 };
 ```
 
-<div align="center" style="margin-top: 20px;">
+<br>
+<br>
+
+<div align="center">
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Whuaxu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Whuaxu Top Languages" />
   </p>
@@ -54,6 +57,16 @@ const Javi = {
 <br>
 <br>
 
+
+## Contact
+
+<a href="https://linkedin.com/in/ruben-fernandez-boullon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rubén Fernández Boullón LinkedIn"/>
+</a>
+  
+<a href="mailto:javierpb6@gmail.com" target="_blank">
+  <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
