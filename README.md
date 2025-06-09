@@ -57,9 +57,7 @@ const Javi = {
 <br>
 <br>
 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-## Contact
+## Contact 
 
 <a href="www.linkedin.com/in/javier-pena-bello-1a437527a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BKgJb8gy4RIqdgV%2FglCcfMg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Javi Pena LinkedIn"/>
@@ -69,5 +67,8 @@ const Javi = {
   <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
