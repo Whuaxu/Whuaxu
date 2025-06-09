@@ -58,7 +58,8 @@ const Javi = {
 <br>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">## Contact
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+## Contact
 
 <a href="www.linkedin.com/in/javier-pena-bello-1a437527a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BKgJb8gy4RIqdgV%2FglCcfMg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Javi Pena LinkedIn"/>
