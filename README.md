@@ -42,7 +42,7 @@ const Javi = {
 };
 ```
 
-<div align="center">
+<div align="center" margin-top= 20px>
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Whuaxu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Whuaxu Top Languages" />
   </p>
