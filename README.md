@@ -44,11 +44,14 @@ const Javi = {
 <br>
 <br>
 
-<p align="center">
+<div align="center">
+  <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Whuaxu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Whuaxu Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whuaxu&show_icons=true&locale=en&theme=radical" alt="Whuaxu GitHub Stats" />
-</p>
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Whuaxu&show_icons=true&locale=en&theme=radical" alt="Whuaxu GitHub Stats" />
+  </p>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
