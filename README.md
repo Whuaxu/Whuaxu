@@ -60,8 +60,8 @@ const Javi = {
 
 ## Contact
 
-<a href="https://linkedin.com/in/ruben-fernandez-boullon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rubén Fernández Boullón LinkedIn"/>
+<a href="www.linkedin.com/in/javier-pena-bello" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Javi Pena LinkedIn"/>
 </a>
   
 <a href="mailto:javierpb6@gmail.com" target="_blank">
