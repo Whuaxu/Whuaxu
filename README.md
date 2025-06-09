@@ -41,8 +41,6 @@ const Javi = {
     }
 };
 ```
-<br>
-<br>
 
 <div align="center">
   <p>
