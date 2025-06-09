@@ -42,7 +42,7 @@ const Javi = {
 };
 ```
 
-<div align="center" margin-top= 20px>
+<div align="center" style="margin-top: 20px;">
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Whuaxu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Whuaxu Top Languages" />
   </p>
@@ -50,6 +50,12 @@ const Javi = {
     <img src="https://github-readme-stats.vercel.app/api?username=Whuaxu&show_icons=true&locale=en&theme=radical" alt="Whuaxu GitHub Stats" />
   </p>
 </div>
+
+<br>
+<br>
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
