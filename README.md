@@ -33,7 +33,7 @@ const Javi = {
     technologies: {
         frontEnd: {
             js: ["React Native", "Expo", "Jquery"],
-            css: ["Bootstrap", "Fontawesome"]
+            css: ["Bootstrap", "FontAwesome"]
         },
         backEnd: {
             sql: ["MySQL", "Oracle"],
