@@ -13,7 +13,7 @@
 <br>
 
 - 🖥️ Computer Engineer student at Escola Superior de Enxeñería Informática - ESEI.
-- 📚 I'm a native Spanish speaker, also I know Galician, English and little bit of Turkish.
+- 📚 I'm a native Spanish and Galician speaker, also I know English and little bit of Turkish.
 - ✈︎🌍 Erasmus student of the Aydin Istanbul University (2024-2025)
 
 
