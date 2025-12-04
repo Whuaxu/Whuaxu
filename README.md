@@ -28,7 +28,7 @@
 ```javascript
 const Javi = {
     pronouns: "he" | "him",
-    code: [Javascript, TypeScript, C++, Java, PHP, HTML, CSS, MySQL, Oracle, R Commander, C],
+    code: [Javascript, TypeScript, C++, Java, PHP, HTML, CSS, MySQL, Oracle, R Commander, C, Dockerfile, Docker Compose],
     icouldTalkForHoursAbout : ["technology", "formula1", "music", "movies", "games", "food"],
     technologies: {
         frontEnd: {
