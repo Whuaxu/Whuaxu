@@ -27,15 +27,16 @@
 
 ```javascript
 const Javi = {
-    code: [Javascript, TypeScript, C, C++, Java, PHP, HTML, CSS, SCSS, MongoDB, MySQL, Oracle, R Commander, Dockerfile, Docker Compose],
+    code: [Javascript, TypeScript, C, C++, Java, PHP, HTML, CSS, SCSS, Python, JSON, MongoDB, MySQL, Oracle, R Commander, Dockerfile, Docker Compose],
     icouldTalkForHoursAbout : ["technology", "formula1", "music", "movies", "games", "food"],
     technologies: {
         frontEnd: {
-            js: ["React Native", "Expo", "Jquery", "Angular"],
+            js: ["React Native", "Expo", "Jquery"],
+			ts: ["Angular", "Vue", "Nuxt"]
             css: ["Bootstrap", "FontAwesome", "TailWind"]
         },
         backEnd: {
-			js: ["LoopBack"],
+			ts: ["LoopBack"],
             sql: ["MySQL", "Oracle", "MongoDB", "Mongo Compass"],
         }        
     }
