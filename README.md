@@ -27,7 +27,8 @@
 
 ```javascript
 const Javi = {
-    code: [Javascript, TypeScript, C, C++, Java, PHP, HTML, CSS, SCSS, Python, JSON, MongoDB, MySQL, Oracle, R Commander, Dockerfile, Docker Compose],
+    code: [Javascript, TypeScript, C, C++, Java, PHP, HTML, CSS, SCSS, Python, JSON, MongoDB, MySQL, Oracle,
+			R Commander, Dockerfile, Docker Compose],
     icouldTalkForHoursAbout : ["technology", "formula1", "music", "movies", "games", "food"],
     technologies: {
         frontEnd: {
