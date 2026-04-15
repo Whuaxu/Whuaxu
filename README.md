@@ -33,8 +33,8 @@ const Javi = {
     technologies: {
         frontEnd: {
             js: ["React Native", "Expo", "Jquery"],
-			ts: ["Angular", "Vue", "Nuxt"]
-            css: ["Bootstrap", "FontAwesome", "TailWind"]
+			ts: ["Angular", "Vue", "Nuxt"],
+            css: ["Bootstrap", "FontAwesome", "TailWind"],
         },
         backEnd: {
 			ts: ["LoopBack"],
