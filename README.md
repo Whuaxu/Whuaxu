@@ -12,7 +12,7 @@
 <br>
 <br>
 
-- 🖥️ Computer Engineer student at Escola Superior de Enxeñería Informática - ESEI.
+- 🖥️ Computer Engineer graduated from University of Vigo - ESEI.
 - 📚 I'm a native Spanish and Galician speaker, also I know English and little bit of Turkish.
 - ✈︎🌍 Erasmus student of the Aydin Istanbul University (2024-2025)
 
