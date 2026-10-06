@@ -13,6 +13,8 @@
 <br>
 
 - 🖥️ Computer Engineer graduated from University of Vigo - ESEI.
+- 💼 Software Developer at ALIA Technologies and Advisor at Auria Technologies.
+- 🌐 Portfolio: **[javipena.vercel.app](https://javipena.vercel.app)**
 - 📚 I'm a native Spanish and Galician speaker, also I know English and little bit of Turkish.
 - ✈︎🌍 Erasmus student of the Aydin Istanbul University (2024-2025)
 
@@ -63,6 +65,10 @@ const Javi = {
 ---
 
 ### 🔗 Contact 
+
+<a href="https://javipena.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" alt="Javi Pena Portfolio"/>
+</a>
 
 <a href="https://linkedin.com/in/javier-pena-bello-1a437527a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Javi Pena LinkedIn"/>
