@@ -15,8 +15,9 @@
 - 🖥️ Computer Engineer graduated from University of Vigo - ESEI.
 - 💼 Software Developer at ALIA Technologies and Advisor at Auria Technologies.
 - 🌐 Portfolio: **[javipena.vercel.app](https://javipena.vercel.app)**
-- 📚 I'm a native Spanish and Galician speaker, also I know English and little bit of Turkish.
-- ✈︎🌍 Erasmus student of the Aydin Istanbul University (2024-2025)
+- 🔐 Currently learning cybersecurity.
+- 📚 Native Spanish and Galician speaker. I also speak English and a little Turkish.
+- ✈︎🌍 Erasmus at İstanbul Aydın University (2024-2025).
 
 
 <br>
@@ -29,20 +30,29 @@
 
 ```javascript
 const Javi = {
-    code: [Javascript, TypeScript, C, C++, Java, PHP, HTML, CSS, SCSS, Python, JSON, MongoDB, MySQL, Oracle,
-			R Commander, Dockerfile, Docker Compose],
-    icouldTalkForHoursAbout : ["technology", "formula1", "music", "movies", "games", "food"],
+    code: ["JavaScript", "TypeScript", "C", "C++", "Java", "PHP", "HTML", "CSS", "SCSS", "Python", "Bash",
+           "JSON", "SQL", "MongoDB", "MySQL", "Oracle", "R Commander", "Dockerfile", "Docker Compose"],
+    icouldTalkForHoursAbout: ["technology", "cybersecurity", "formula1", "music", "movies", "games", "food"],
     technologies: {
         frontEnd: {
-            js: ["React Native", "Expo", "Jquery"],
-			ts: ["Angular", "Vue", "Nuxt"],
-            css: ["Bootstrap", "FontAwesome", "TailWind"],
+            js: ["React Native", "Expo", "Redux", "jQuery"],
+            ts: ["Angular", "Vue", "Nuxt"],
+            css: ["Bootstrap", "FontAwesome", "Tailwind"],
+            design: ["Figma"],
         },
         backEnd: {
-			ts: ["LoopBack"],
-            sql: ["MySQL", "Oracle", "MongoDB", "Mongo Compass"],
-        }        
-    }
+            ts: ["Node.js", "LoopBack"],
+            apis: ["REST", "Swagger", "Postman", "NATS"],
+            sql: ["MySQL", "Oracle", "MongoDB", "Mongo Compass", "DBeaver", "phpMyAdmin"],
+            cache: ["Redis"],
+        },
+        erp: ["Odoo", "Odoo API", "PrestaShop"],
+        devOps: ["Docker", "Docker Compose", "Portainer", "Git", "GitFlow", "GitHub", "GitLab", "CI/CD",
+                 "SonarQube", "DigitalOcean", "Apache", "Linux"],
+        ai: ["Anthropic Claude", "Claude Skills", "Prompt Engineering", "Spec-driven development",
+             "SpecKit", "OpenSpec", "Machine Learning"],
+        networking: ["Wireshark", "Packet Tracer"],
+    },
 };
 ```
 
