@@ -61,10 +61,10 @@ const Javi = {
 
 <div align="center">
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Whuaxu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Whuaxu Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Whuaxu Top Languages" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Whuaxu&show_icons=true&locale=en&theme=radical" alt="Whuaxu GitHub Stats" />
+    <img src="./profile/stats.svg" alt="Whuaxu GitHub Stats" />
   </p>
 </div>
 
