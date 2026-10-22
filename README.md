@@ -78,27 +78,6 @@ const Javi = {
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude-ai.svg" height="48" alt="Claude" />
 </p>
 
-## 🚀 Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍓 <a href="https://github.com/Whuaxu/DjBerry-Homelab">DjBerry-Homelab</a></h3>
-      <p>Security-hardened Docker Compose stacks for a Raspberry Pi 5: AdGuard Home, Nginx Proxy Manager, Plex, Homepage and more.</p>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎧 <a href="https://github.com/Whuaxu/Penas-Portfolio">Penas-Portfolio</a></h3>
-      <p>Personal portfolio showcasing my projects, skills, experience and work.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub stats
 
 <!-- Generated daily by .github/workflows/stats.yml -->
