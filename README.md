@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:fe428e&height=200&section=header&text=Javi%20Pena&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Homelab%20tinkerer%20%C2%B7%20Security%20learner&descSize=18&descAlignY=58" alt="Javi Pena" />
+<img width="100%" src="./assets/header.svg" alt="Javi Pena" />
 
 <h1 align="center">
   Hiii folks, Welcome to my github!
@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FE428E&center=true&vCenter=true&width=620&lines=Software+Developer+%40+ALIA+Technologies;Computer+Engineer+%C2%B7+University+of+Vigo;Self-hosting+a+Raspberry+Pi+5+homelab;Currently+learning+cybersecurity" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=400&size=20&duration=2800&pause=900&color=FE428E&center=true&vCenter=true&width=620&lines=Software+Developer+%40+ALIA+Technologies;Computer+Engineer+%C2%B7+University+of+Vigo;Self-hosting+a+Raspberry+Pi+5+homelab;Currently+learning+cybersecurity" alt="Typing intro" />
 </p>
 
 <a href="https://myoctocat.com/" target="_blank">
