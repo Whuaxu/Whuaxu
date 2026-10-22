@@ -106,6 +106,9 @@ const Javi = {
   <img src="./profile/stats.svg" alt="Whuaxu GitHub Stats" height="170" />
   <img src="./profile/top-langs.svg" alt="Whuaxu Top Languages" height="170" />
 </p>
+<p align="center">
+  <img src="./profile/profile-details.svg" alt="Whuaxu Profile Details" width="700" />
+</p>
 
 ## 🔗 Contact
 

@@ -30,6 +30,20 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@58ec032e39377dd38329bdc1db70074fe74fbb17 # v0.12.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: radical
+          AUTO_PUSH: false
+
+      - name: Keep only the profile details card
+        run: |
+          cp profile-summary-card-output/radical/0-profile-details.svg profile/profile-details.svg
+          rm -rf profile-summary-card-output
+
       - name: Commit the cards
         run: |
           git config user.name "github-actions[bot]"
